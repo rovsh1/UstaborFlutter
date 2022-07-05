@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "project_number": "602777420174",
+    "firebase_url": "https://ustabor-1330.firebaseio.com",
+    "project_id": "ustabor-1330",
+    "storage_bucket": "ustabor-1330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602777420174:android:bc2623e9da4fddf8",
+        "android_client_info": {
+          "package_name": "su.keysoft.ustabor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602777420174-8luq6h7kliajpg1ejupi5dbeaohqt0ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "1e11f3c674a8ec3188f1bab112b3f11d5b2c92f7"
+          }
+        },
+        {
+          "client_id": "602777420174-9mpkjimscm6g3lk294p02sm00rfnviab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "91822f269a4f0be8db9a10a61d449074a232d2e7"
+          }
+        },
+        {
+          "client_id": "602777420174-atn039f01adovhjej3rch9c2q8dh7glv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "329d8b8044275ad6b11caa22aa652a098e3ca2da"
+          }
+        },
+        {
+          "client_id": "602777420174-bvo3q2g7tmd9ds3g563vu8muu74nk9gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "10c1054bfbcc01a838d1a49d9bdbc138d76a7184"
+          }
+        },
+        {
+          "client_id": "602777420174-j0klvqkr9dnmqg4pcmimasjb5525fcv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "7077168e08d08c691cc5323accad1c2b8b2fa6a1"
+          }
+        },
+        {
+          "client_id": "602777420174-ofssmol0uhuq44s7np3mcepk1u5l9o6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "aa27df0fb42635fd48542af351488eaca710e00b"
+          }
+        },
+        {
+          "client_id": "602777420174-quv8bnce53cummhnutglqfc5e63edjgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "7f069ed36849076c04f66a953b2ab8f73e7abff3"
+          }
+        },
+        {
+          "client_id": "602777420174-tnfrvlj9no8pkdpfm8qdl9f2bdg88s5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "8679c932d90dc517c06e8243f53cbe4fea07f825"
+          }
+        },
+        {
+          "client_id": "602777420174-ucnleiesk5kvitd29pgp6ukcbpa8vcbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.keysoft.ustabor",
+            "certificate_hash": "426397edfc8b45a530cdad23999f70603a6c5b07"
+          }
+        },
+        {
+          "client_id": "602777420174-4pldrens7847s2jr3lmvb5kch7qbvbav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXi0qvgwRoiV9KsaGt6NcnZCpSGPlwRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106049806673216056074",
+              "client_type": 3
+            },
+            {
+              "client_id": "602777420174-cu2s782g6kfbb4fd9ua049fm4knabe9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideauction.Ustabor",
+                "app_store_id": "1108530946"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
